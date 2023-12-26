@@ -13,4 +13,10 @@ Vamos a eles...
  - Como objetivos o estudo visada a compreensão do quadro atual da empresa, a redução dos casos de "abandono" por parte dos funcionários e também elencar alguns planos de ação para a mitigação do mesmo;
  - Estudo realizado ao longo de minha Formação como Analista de Dados;
  - Projeto apresentado no Medium.
+### Ferramentas e Tecnologias
+![Microsoft Excel](https://img.shields.io/badge/-Microsoft_Excel-217346?logo=microsoftexcel&logoColor=white&style=plastic)
+![Medium](https://img.shields.io/badge/-Medium-000000?logo=medium&logoColor=white&style=plastic)
+
+
+
 
