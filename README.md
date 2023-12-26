@@ -9,6 +9,11 @@ Vamos a eles...
 <hr style="border:1px solid #333333"> </hr>
 
 ## **1. Estudo de Caso: Turnover em Empresa de Tecnologia (People Analytics)**
+<<<<<<< Updated upstream
+=======
+ → Projeto apresentado no Link abaixo no Medium:
+[**TurnOver**](https://medium.com/@dealbarello/estudo-de-caso-turnover-empresa-de-tecnologia-people-analytics-c1872d786779)
+>>>>>>> Stashed changes
  - Estudo com análise do TurnOver dos colaboradores de uma Empresa;
  - Como objetivos o estudo visada a compreensão do quadro atual da empresa, a redução dos casos de "abandono" por parte dos funcionários e também elencar alguns planos de ação para a mitigação do mesmo;
  - Estudo realizado ao longo de minha Formação como Analista de Dados;
