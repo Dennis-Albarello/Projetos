@@ -6,8 +6,7 @@
 -- ######################################################################################################## --
 -- (Query 1) Identificando a Receita, os leads, conversão e ticket médio mês a mês
 
--- Aqui utilizando meus conhecimentos com TABELAS TEMPORÁRIAS
-
+-- Criando uma Tabela Temporária com a quantidade de visitas ao site
 DROP TEMPORARY TABLE IF EXISTS visitas;
 
 CREATE TEMPORARY TABLE visitas
@@ -21,6 +20,7 @@ GROUP BY
 ORDER BY
 	ano_mes asc;
 
+-- Criando uma Tabela Temporária com os dados financeiros
 DROP TEMPORARY TABLE IF EXISTS financeiro;
 
 CREATE TEMPORARY TABLE financeiro
@@ -38,7 +38,8 @@ GROUP BY
 	ano_mes
 ORDER BY
 	ano_mes asc;
-    
+
+-- Realizando a consulta com a utilização das duas Tabelas Temporárias criadas anteriormente
 SELECT
 	visitas.ano_mes AS 'mês',
 	visitas.leads AS 'leads (#)',
@@ -59,6 +60,7 @@ GROUP BY
 -- ######################################################################################################## --
 -- (Query 2) Estados que mais venderam no último mês. Na época era o mês de Agosto (08).
 
+-- Adicionando uma nova coluna na Tabela
 ALTER TABLE sales.customers
 ADD country VARCHAR(10);
 
