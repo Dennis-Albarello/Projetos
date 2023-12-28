@@ -19,7 +19,7 @@ Vamos a eles...
 
 <hr style="border:1px solid #333333"> </hr>
 
-## [**2. ESTUDO DE CASO: ACOMPANHAMENTO DE VENDAS**](https://github.com/Dennis-Albarello/Projetos/blob/main/Projeto_Acompanahmento_Vendas/Dash.png)
+## [**2. ESTUDO DE CASO: ACOMPANHAMENTO DE VENDAS**](https://github.com/Dennis-Albarello/Projetos/blob/main/Projeto_Acompanhamento_Vendas/Dash.png)
  - Projeto 1 de Dashboard de Vendas realizado durante o curso na UDEMY. Excelente curso por sinal. Muito obrigado [@MidoriToyota](https://github.com/MidoriToyota);
  - O principal objetivo era criar um Dashboard de vendas destacando os principais indicadores de desempenho e também os principais drivers dos resultados;
  - Utilizei o MySQL para o desenvolvimento de minhas queries;
