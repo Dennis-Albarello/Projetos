@@ -1,7 +1,5 @@
-/* Essas queries foram desenvolvidas ao longo do aprendizado durante um curso desenvolvido pela
-Midori Toyota na UDEMY.
-https://www.udemy.com/share/106ct83@TvFcQ6c9LLmQlU5iv24zJz_1VGFnEh9ahY0bbTwoJYV2FqH2bweDKDe534TU4e-bNg==/
-*/
+/* Essas queries foram desenvolvidas ao longo do aprendizado durante curso na UDEMY desenvolvido pela Midori Toyota */
+/* https://www.udemy.com/share/106ct83@TvFcQ6c9LLmQlU5iv24zJz_1VGFnEh9ahY0bbTwoJYV2FqH2bweDKDe534TU4e-bNg==/ */
 
 -- Esse curso foi realizado utilizando o PostgreSQL, mas na oportunidad realizei meu estudo utilizando o MySQL. 
 
