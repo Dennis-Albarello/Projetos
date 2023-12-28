@@ -21,6 +21,7 @@ Vamos a eles...
 
 ## [**2. ESTUDO DE CASO: ACOMPANHAMENTO DE VENDAS**](https://github.com/Dennis-Albarello/Projetos/blob/main/Projeto_Acompanhamento_Vendas/Dash.png)
  - Projeto 1 de Dashboard de Vendas realizado durante o curso na UDEMY. Excelente curso por sinal. Muito obrigado [@MidoriToyota](https://github.com/MidoriToyota);
+ - Dados disponibilizados para fins didáticos pela Midori para a utilzação no curso;
  - O principal objetivo era criar um Dashboard de vendas destacando os principais indicadores de desempenho e também os principais drivers dos resultados;
  - Utilizei o MySQL para o desenvolvimento de minhas queries;
  - No Dashboard em Excel, fiz algumas pequenas alterações no que foi disponibilizado pela Midori;
